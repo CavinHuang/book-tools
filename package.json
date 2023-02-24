@@ -1,0 +1,19 @@
+{
+  "name": "juejin-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sitdown/juejin": "^1.1.3",
+    "bagpipe": "^0.3.5",
+    "fs-extra": "^10.1.0",
+    "request": "^2.88.2",
+    "sitdown": "^1.1.7"
+  }
+}
